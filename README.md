@@ -8,7 +8,7 @@ I'm a software engineering student who is passionate about writing code, solving
 - 🔭 I’m currently a software engineering student at MUET jamshoro.
 - 📚 I’m currently learning Java & Blockchain.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/badar-muneer-b262771b3/) [Gmail](mailto:badarmuneer924@gmail.com)
+- 📫 How to reach me:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/badar-muneer-b262771b3/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
@@ -18,4 +18,5 @@ I'm a software engineering student who is passionate about writing code, solving
 
 ## More About Me:man:
 🍎 Beginner mindset (**open to learning**)
+
 💻 **I** ❤️ **to think, learn, code, and customize everything**
